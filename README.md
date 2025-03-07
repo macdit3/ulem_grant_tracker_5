@@ -66,7 +66,7 @@ This progrma can be executed on the console using: assuming that you aleady clon
 ## Testing
 Explain how to run the automated tests:
 
-![alt text](images/image5.png)
+![alt text](images/image.png)
 ```
 
 ## Deployment
